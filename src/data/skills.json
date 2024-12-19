@@ -1,0 +1,22 @@
+[
+    {
+      "title": "C++",
+      "imageSrc": "skills/C++.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/C.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/Python.png"
+    },
+    {
+      "title": "ROS 2",
+      "imageSrc": "skills/Ros.png"
+    },
+    {
+      "title": "git",
+      "imageSrc": "skills/git.png"
+    }
+  ]

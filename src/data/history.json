@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Software Developer for ADAS",
+    "organisation": "Arrk",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Conduct rigorous testing and debugging using unit testing frameworks such as Google Test (GTest)",
+      "Define and implement robust publisher/subscriber communication protocols for efficient data flow and system integration",
+      "Create custom Foxglove extensions using the TypeScript React framework to support analysts in debugging issues"
+    ],
+    "imageSrc": "history/Arrk.png"
+  },
+  {
+    "role": "Control Systems Laboratory Intern",
+    "organisation": "Universidad Pontificia Comillas",
+    "startDate": "Sept, 2023",
+    "endDate": "July, 2024",
+    "experiences": [
+      " Developed a trajectory control module for an autonomous wheelchair: Worked on the development of a control system for trajectory tracking using Matlab/Simulink.",
+      "Development a trajectory planning module for an autonomous wheelchair: Worked on the development of a short and long-term trajectory planner using ROS2 and NAV2 (C++ and python)."
+    ],
+    "imageSrc": "history/icai.png"
+  },
+  {
+    "role": "Engineering Intern",
+    "organisation": "Piedrafita",
+    "startDate": "June, 2023",
+    "endDate": "August, 2023",
+    "experiences": [
+      "Participated in the development of a datalogger for armoured vehicles."
+    ],
+    "imageSrc": "history/piedrafita.png"
+  },
+  {
+    "role": "Research Intern",
+    "organisation": "Instituto de Investigación Tecnológica",
+    "startDate": "May, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": [
+      "Participated in the development of a foam classifier for car roofs from convolutional neural networks (Deep Learning).",
+      "Developed a communication system to control a UR3E robot through python."
+    ],
+    "imageSrc": "history/iit.png"
+  }
+]

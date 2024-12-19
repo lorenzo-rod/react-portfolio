@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Autonomous Wheelchair",
+    "imageSrc": "projects/silla.png",
+    "description": "For my master's thesis I worked in the development of an autonomous wheelchair. The project consisted of the development of a control system for the wheelchair to navigate autonomously in indoor environments. The project was developed using ROS2, Gazebo, and Python. You can see a demo of the robotic platform in which the wheelchair was implemented.",
+    "skills": [
+      "C++",
+      "Python",
+      "ROS 2",
+      "Gazebo",
+      "Matlab",
+      "Raspberri Pi",
+      "Nvidia Jetson Orin"
+    ],
+    "demo": "https://youtu.be/kqniI17qyMc",
+    "id": "1"
+  },
+  {
+    "title": "Neural Network from Scratch",
+    "imageSrc": "projects/nn.png",
+    "description": " The project consists of the development of a neural network from scratch using Python (no pytorch, no tensorflow, just Numpy). The neural network was trained using the MNIST dataset.",
+    "skills": ["Python", "Deep Learning"],
+    "source": "https://github.com/lorenzo-rod/NNFromScratch",
+    "id": "2"
+  },
+  {
+    "title": "Autonomous Sailboat",
+    "imageSrc": "projects/pcb.png",
+    "description": "For my bachelor's thesis at UIUC (University of Illinois at Urbana-Champaign) I worked in the development of an autonomous sailboat. The project consisted of the development of both the PCB and the software for the sailboat to navigate autonomously in a lake. The project was awarded with an outstanding engineering award",
+    "skills": ["Matlab", "Python", "KiCad"],
+    "id": "3"
+  }
+]
